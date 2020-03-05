@@ -9,6 +9,7 @@ $('#password1').val("");
 
 var phone = $("#phone");
 var phone_null = $("#phone_null");
+
 var phone_error = $("#phone_error");
 var registerFormBtn = $("#registerFormBtn");
 
